@@ -1,0 +1,1 @@
+python find_cov_vaccine_slot_script.py  --district_id=363 --search=2 --age=35 --days=7 --retrycount=2 --nexttrywait=10
